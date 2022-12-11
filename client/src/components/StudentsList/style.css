@@ -1,0 +1,15 @@
+table {
+  width: 85% !important;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+.spinner {
+  /* center the spinner
+   */
+
+  margin: 0 auto;
+  justify-content: center;
+  display: flex;
+
+  margin-top: 40px;
+}
